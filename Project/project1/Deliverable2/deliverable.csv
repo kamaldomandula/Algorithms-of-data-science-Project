@@ -1,0 +1,11 @@
+user_prompt,url_to_check,func_rating,custom_rating
+What are the symptoms of COVID-19?,https://www.fitnessmag.com/best-weight-loss-exercises,0,1
+How to prepare for a job interview?,https://www.investopedia.com/blockchain-explained,0,3
+How to bake a chocolate cake?,https://www.codecademy.com/beginner-languages,0,2
+Best exercises for weight loss?,https://www.healthline.com/flu-symptoms,0,4
+Tell me about the benefits of meditation.,https://www.history.com/ancient-rome,0,4
+What are the symptoms of flu?,https://www.money.com/saving-tips,0,2
+Explain the theory of relativity in simple terms.,https://www.ibm.com/quantum-computing,0,4
+What are the latest trends in AI?,https://www.space.com/einstein-theory-relativity,0,4
+What are some beginner-friendly programming languages?,https://www.sleepfoundation.org/tips,0,4
+Tell me about the history of Ancient Rome.,https://www.indeed.com/job-interview-tips,0,4
