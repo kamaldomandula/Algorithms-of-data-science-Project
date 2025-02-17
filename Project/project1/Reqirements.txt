@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+pandas
+requests
+beautifulsoup4
+transformers
+sentence-transformers
