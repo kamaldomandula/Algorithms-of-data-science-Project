@@ -75,17 +75,17 @@ sample_prompts = [
 ]
 
 sample_urls = [
-    "https://www.bbc.com/news",
+    "https://www.bbc.com/news/world-us-canada-64879434",
     "https://www.nytimes.com",
     "https://www.nature.com",
     "https://www.who.int/health-topics/coronavirus",
-    "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
-    "https://www.nasa.gov",
-    "https://www.wikipedia.org",
+    "https://www.cdc.gov/flu/about/index.html",
+    "https://www.nasa.gov/press-release/nasa-shares-stunning-new-images-of-galaxies",
+    "https://en.wikipedia.org/wiki/Influenza",
     "https://www.python.org",
     "https://www.openai.com",
     "https://arxiv.org",
-    "https://www.healthline.com",
+    "https://www.healthline.com/health/influenza",
     "https://www.sciencedaily.com",
     "https://www.nationalgeographic.com",
     "https://www.reuters.com",
